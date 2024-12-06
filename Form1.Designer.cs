@@ -128,7 +128,7 @@
             this.Controls.Add(this.txtJoursPresentiel);
             this.Controls.Add(this.txtJoursFormation);
             this.Name = "Form1";
-            this.Text = "Calcul Salaire";
+            this.Text = "Calcul TechnofuturTIC";
             this.ResumeLayout(false);
             this.PerformLayout();
         }

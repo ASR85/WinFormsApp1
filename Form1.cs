@@ -8,6 +8,8 @@ namespace CalculSalaire
         public Form1()
         {
             InitializeComponent();
+            this.FormBorderStyle = FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
         }
 
         private void btnCalculer_Click(object sender, EventArgs e)
